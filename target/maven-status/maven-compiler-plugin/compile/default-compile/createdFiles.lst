@@ -1,0 +1,16 @@
+com\cuatroa\Reto4\repository\UserRepository.class
+com\cuatroa\Reto4\Reto4Application.class
+com\cuatroa\Reto4\controller\ProductController.class
+com\cuatroa\Reto4\model\Product.class
+com\cuatroa\Reto4\repository\OrderRepository.class
+com\cuatroa\Reto4\model\Order.class
+com\cuatroa\Reto4\repository\Interface\UserInterface.class
+com\cuatroa\Reto4\controller\OrderController.class
+com\cuatroa\Reto4\repository\Interface\OrderInterface.class
+com\cuatroa\Reto4\service\OrderService.class
+com\cuatroa\Reto4\service\ProductService.class
+com\cuatroa\Reto4\controller\UserController.class
+com\cuatroa\Reto4\model\User.class
+com\cuatroa\Reto4\repository\Interface\ProductInterface.class
+com\cuatroa\Reto4\repository\ProductRepository.class
+com\cuatroa\Reto4\service\UserService.class
