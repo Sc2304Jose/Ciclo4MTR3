@@ -24,7 +24,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author Jeremy
+ * @author Jose Diomedes Lopez
+ * @version 1.0 12/12/2021
  */
 @RestController
 @RequestMapping("/api/user")

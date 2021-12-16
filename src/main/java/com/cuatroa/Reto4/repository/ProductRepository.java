@@ -13,7 +13,8 @@ import com.cuatroa.Reto4.repository.Interface.ProductInterface;
 
 /**
  *
- * @author Jeremy
+ * @author Jose Diomedes Lopez
+ * @version 1.0 12/12/2021
  */
 @Repository
 public class ProductRepository {

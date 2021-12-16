@@ -6,7 +6,7 @@ package com.cuatroa.Reto4.model;
 
 /**
  *
- * @author Jeremy
+ * @author Jose Diomedes Lopez M
  */
 
 import org.springframework.data.annotation.Id;

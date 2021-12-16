@@ -10,7 +10,8 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
  *
- * @author Jeremy
+ * @author Jose Diomedes Lopez
+ * @version 1.0 12/12/2021
  */
 public interface UserInterface extends MongoRepository<User, Integer> {
      Optional<User> findByEmail(String email);

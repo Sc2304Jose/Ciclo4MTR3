@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
  *
- * @author Jeremy
+ * @author Jose Diomedes Lopez M
  */
 public interface ProductInterface extends MongoRepository<Product, String> {
     

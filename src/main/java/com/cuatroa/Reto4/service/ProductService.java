@@ -13,7 +13,8 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author Jeremy
+ * @author Jose Diomedes Lopez
+ * @version 1.0 12/12/2021
  */
 @Service
 public class ProductService {

@@ -14,7 +14,8 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  *
- * @author Jeremy
+ * @author Jose Diomedes Lopez
+ * @version 1.0 12/12/2021
  */
 @Document(collection = "orders")
 @Data
